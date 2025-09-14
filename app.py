@@ -1,4 +1,3 @@
-# Save this file as app.py
 import streamlit as st
 from transformers import pipeline
 
